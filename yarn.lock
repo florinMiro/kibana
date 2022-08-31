@@ -1476,10 +1476,10 @@
   dependencies:
     "@elastic/ecs-helpers" "^1.1.0"
 
-"@elastic/elasticsearch@npm:@elastic/elasticsearch-canary@8.3.0-canary.1":
-  version "8.3.0-canary.1"
-  resolved "https://registry.yarnpkg.com/@elastic/elasticsearch-canary/-/elasticsearch-canary-8.3.0-canary.1.tgz#31dc18f724433c4135ed85fde5fd018393134552"
-  integrity sha512-CSNP4vTL/90VRD3MbvfBggy4VBxEgNmlHQf7mlWiPRTxo24t68PqNS+TnsfzO7fbY/nOALoX9hE8VlxRcMo0iA==
+"@elastic/elasticsearch@8.4.0":
+  version "8.4.0"
+  resolved "https://registry.yarnpkg.com/@elastic/elasticsearch/-/elasticsearch-8.4.0.tgz#3fe2c7a9c06de261a465e7a8bca5955b93e4a726"
+  integrity sha512-0QZDBePnb5a+d76zjlMYq96IDf0AOuGP7JHugFUYlYwTC7rZvROuZSpoUsvpUjNH2CzMqWgNLIekIR6EHRMIQA==
   dependencies:
     "@elastic/transport" "^8.2.0"
     tslib "^2.4.0"
@@ -11851,7 +11851,7 @@ core-js@^2.4.0, core-js@^2.5.0, core-js@^2.6.9:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha512-HOpZf6eXmnl7la+cUdMnLvUxKNqLUzJvgIziQ0DiF3JwSImNphIqdGqzj6hIKyX04MmV0poclQ7+wjWvxQyR2A==
 
-core-js@^3.0.4, core-js@^3.6.5, core-js@^3.8.2, core-js@^3.8.3, core-js@^3.23.5:
+core-js@^3.0.4, core-js@^3.23.5, core-js@^3.6.5, core-js@^3.8.2, core-js@^3.8.3:
   version "3.23.5"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.23.5.tgz#1f82b0de5eece800827a2f59d597509c67650475"
   integrity sha512-7Vh11tujtAZy82da4duVreQysIoO2EvVrur7y6IzZkH1IHPSekuDi8Vuw1+YKjkbfWLRD7Nc9ICQ/sIUDutcyg==
